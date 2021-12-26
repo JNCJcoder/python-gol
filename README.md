@@ -7,6 +7,10 @@
 <h4 align="center">Game of Life de Conway feito usando Python, Pygame e Numpy.</h4>
 </br>
 
+<div align="center">
+<img src=".github/preview.gif" alt="Gif do GOL" width="300">
+</div>
+
 Game of Life é um jogo sem jogador criado por John Horton Conway que simula processos de evolução de células biológicas. É o exemplo mais bem conhecido de [autómato celular](https://pt.wikipedia.org/wiki/Aut%C3%B3mato_celular).
 
 <br>
